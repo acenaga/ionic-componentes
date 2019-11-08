@@ -18,5 +18,9 @@ getMenuOpts() {
   return this.http.get<Componente[]>('/assets/data/menu.json');
 }
 
+getAlbumnes() {
+  return this.http.get<any>('http://jsonplaceholder.typicode.com/albums');
+}
+
 
 }

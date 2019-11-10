@@ -100,9 +100,9 @@
       "icon": "copy",
       "name": "Segment",
       "redirecTo": "/segment"
-    }
+    },
     {
-      "icon": "copy",
+      "icon": "albums",
       "name": "Slides",
       "redirecTo": "/slides"
     }

@@ -101,5 +101,10 @@
       "name": "Segment",
       "redirecTo": "/segment"
     }
+    {
+      "icon": "copy",
+      "name": "Slides",
+      "redirecTo": "/slides"
+    }
 
   ]

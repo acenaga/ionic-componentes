@@ -1,10 +1,7 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Componente } from '../interfaces/interfaces';
-<<<<<<< HEAD
 import { delay } from 'rxjs/operators';
-=======
->>>>>>> c9453f82a85c3090501ccac26e8da74a44eff83f
 
 @Injectable({
   providedIn: 'root'
